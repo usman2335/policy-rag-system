@@ -18,7 +18,7 @@ Download from: https://nodejs.org/
 ### 4. Get Google API Key
 Your current key is already configured in `.env`:
 ```
-GOOGLE_API_KEY=AIzaSyCuZJn1t2PXTEHIcDaChSupXxMRkt2LvB8
+YOUR_API_KEY_HERE
 ```
 
 ## Quick Start (Recommended)
